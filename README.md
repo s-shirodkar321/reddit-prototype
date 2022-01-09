@@ -1,1 +1,1 @@
-# reddit-simulation
+# Reddit Prototype
